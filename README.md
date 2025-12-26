@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+cloud+infrastructure+☁️;Automating+workflows+and+processes+🤖;Optimizing+system+performance+⚡;Contributing+to+open-source+💻;DevOps+Engineer+%7C+Full+Stack+Developer+🚀)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+cloud+infrastructure+☁️;Automating+workflows+and+processes+🤖;Optimizing+system+performance+⚡;Contributing+to+open-source+💻;DevOps+Engineer+%7C+Full+Stack+Developer+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top"></td>
 
 **🇬🇧 English:**
 
