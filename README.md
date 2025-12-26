@@ -151,7 +151,7 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TEGAR-SRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TEGAR-SRC&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -168,7 +168,7 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEGAR-SRC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TEGAR-SRC&theme=tokyonight&column=7" />
 </div>
 
 ---
