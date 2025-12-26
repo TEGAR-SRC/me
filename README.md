@@ -36,7 +36,7 @@ Hi! I'm **Tegar Arrahman**, but you can call me **tegar-aja** 😊
 I'm a passionate **DevOps Engineer**, **Full Stack Developer**, **Cloud Engineer**, and **Network Engineer** with hands-on experience in building and managing scalable applications, cloud infrastructure, and networks.
 
 - 🔭 Currently working on **scalable applications and cloud infrastructure**
-- 🌱 Learning **advanced DevOps practices and cloud technologies**
+- 💼 Experienced in **DevOps practices, cloud technologies, and infrastructure automation**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Feel free to ask me about **DevOps, Cloud Infrastructure, Full Stack Development, or Networking**
 - ⚡ Fun fact: I love automating workflows and optimizing system performance - it's like solving puzzles!
@@ -53,7 +53,7 @@ Hai! Saya **Tegar Arrahman**, tapi kalian bisa panggil saya **tegar-aja** 😊
 Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engineer**, dan **Network Engineer** yang berpengalaman dalam membangun dan mengelola aplikasi yang scalable, infrastruktur cloud, dan jaringan.
 
 - 🔭 Saat ini sedang mengerjakan **aplikasi yang scalable dan infrastruktur cloud**
-- 🌱 Sedang mempelajari **praktek DevOps tingkat lanjut dan teknologi cloud**
+- 💼 Berpengalaman dalam **praktek DevOps, teknologi cloud, dan otomatisasi infrastruktur**
 - 👯 Ingin berkolaborasi dalam **proyek open-source**
 - 💬 Jangan ragu untuk bertanya tentang **DevOps, Infrastruktur Cloud, Pengembangan Full Stack, atau Jaringan**
 - ⚡ Fakta menarik: Saya suka mengotomatisasi workflow dan mengoptimalkan performa sistem - seperti menyelesaikan puzzle!
@@ -220,7 +220,7 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 **🇬🇧 English:**
 - 🔥 Building scalable cloud infrastructure
 - 🚀 Automating deployment pipelines
-- 📚 Learning advanced Kubernetes patterns
+- 💼 Experienced with advanced Kubernetes patterns and container orchestration
 - 💡 Contributing to open-source projects
 
 </td>
@@ -229,7 +229,7 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 **🇮🇩 Bahasa Indonesia:**
 - 🔥 Membangun infrastruktur cloud yang scalable
 - 🚀 Mengotomatisasi pipeline deployment
-- 📚 Mempelajari pola Kubernetes tingkat lanjut
+- 💼 Berpengalaman dengan pola Kubernetes tingkat lanjut dan container orchestration
 - 💡 Berkontribusi pada proyek open-source
 
 </td>
