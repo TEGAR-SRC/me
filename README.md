@@ -14,9 +14,7 @@
 ---
 
 <div align="center">
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+infrastructure+☁️;Automating+workflows+and+processes+🤖;Optimizing+system+performance+⚡;Contributing+to+open-source+💻)](https://git.io/typing-svg)
-  
 </div>
 
 ---
@@ -24,12 +22,12 @@
 ## 👨‍💻 About Me / Tentang Saya
 
 <div align="center">
-
-**👋 Hey there! Call me <strong>tegar-aja</strong>** | **👋 Hai! Panggil saya <strong>tegar-aja</strong>**
-
+  **👋 Hey there! Call me <strong>tegar-aja</strong>** | **👋 Hai! Panggil saya <strong>tegar-aja</strong>**
 </div>
 
-<div align="left">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **🇬🇧 English:**
 
@@ -45,6 +43,9 @@ I'm a passionate **DevOps Engineer**, **Full Stack Developer**, **Cloud Engineer
 - 🎯 Passionate about building robust, scalable solutions that make a difference
 - ☕ Coffee enthusiast and problem solver
 
+</td>
+<td width="50%" valign="top">
+
 **🇮🇩 Bahasa Indonesia:**
 
 Hai! Saya **Tegar Arrahman**, tapi kalian bisa panggil saya **tegar-aja** 😊
@@ -59,7 +60,9 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 - 🎯 Berpengalaman dalam membangun solusi yang robust dan scalable yang membuat perbedaan
 - ☕ Pecinta kopi dan problem solver
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -171,7 +174,9 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 
 ## 💼 What I Do / Yang Saya Lakukan
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **🇬🇧 English:**
 
@@ -182,6 +187,9 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 - 🤖 **Automation**: Streamlining workflows and processes
 - 📈 **Performance Optimization**: Enhancing system efficiency and scalability
 
+</td>
+<td width="50%" valign="top">
+
 **🇮🇩 Bahasa Indonesia:**
 
 - 🚀 **DevOps Engineering**: Pipeline CI/CD, otomatisasi infrastruktur, dan strategi deployment
@@ -191,7 +199,9 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 - 🤖 **Otomatisasi**: Menyederhanakan workflow dan proses
 - 📈 **Optimasi Performa**: Meningkatkan efisiensi dan skalabilitas sistem
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,7 +215,9 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 
 ## 🎯 Current Focus / Fokus Saat Ini
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **🇬🇧 English:**
 - 🔥 Building scalable cloud infrastructure
@@ -213,13 +225,18 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 - 📚 Learning advanced Kubernetes patterns
 - 💡 Contributing to open-source projects
 
+</td>
+<td width="50%" valign="top">
+
 **🇮🇩 Bahasa Indonesia:**
 - 🔥 Membangun infrastruktur cloud yang scalable
 - 🚀 Mengotomatisasi pipeline deployment
 - 📚 Mempelajari pola Kubernetes tingkat lanjut
 - 💡 Berkontribusi pada proyek open-source
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -232,15 +249,6 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
   <a href="https://tegar-aja.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Website-tegar--aja.xyz-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <!-- Add your other social media links here -->
-  <!-- 
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  -->
 </div>
 
 ---
