@@ -151,7 +151,7 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=TEGAR-SRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=TEGAR-SRC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -159,22 +159,16 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 ## 🔥 GitHub Contribution Graph
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TEGAR-SRC/TEGAR-SRC/output/github-contribution-grid-snake.svg" />
+  <!-- Contribution graph is shown in GitHub Activity section below -->
+  <p>📊 Check out my contribution activity in the <strong>GitHub Activity</strong> section below!</p>
 </div>
-
-<!-- 
-Note: Snake animation requires setup:
-1. Create repository: TEGAR-SRC/TEGAR-SRC
-2. Add .github/workflows/snake.yml with platane/snk action
-3. The animation will auto-generate your contribution graph
--->
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEGAR-SRC&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TEGAR-SRC&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
