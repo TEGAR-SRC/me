@@ -150,16 +150,14 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEGAR-SRC&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TEGAR-SRC&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<!-- GitHub Streak - Temporarily removed due to proxy issues -->
+<!-- Will be restored once GitHub camo proxy is working properly -->
 
 ---
 
 ## 🔥 GitHub Contribution Graph
 
 <div align="center">
-  <!-- Contribution graph is shown in GitHub Activity section below -->
   <p>📊 Check out my contribution activity in the <strong>GitHub Activity</strong> section below!</p>
 </div>
 
@@ -167,9 +165,8 @@ Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engin
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEGAR-SRC&theme=tokyonight&column=7" />
-</div>
+<!-- GitHub Trophies - Temporarily removed due to proxy issues -->
+<!-- Will be restored once GitHub camo proxy is working properly -->
 
 ---
 
