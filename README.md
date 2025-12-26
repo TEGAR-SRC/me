@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tegar+Arrahman!;+Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tegar+Arrahman!;+Call+me+tegar--aja!+😊;+Welcome+to+my+GitHub!+🚀" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tegar%20Arrahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=tegar--aja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
   <h3>💭 DevOps Engineer | Full Stack Developer | Cloud Engineer | Network Engineer</h3>
-  <h3>🇬🇧 English | 🇮🇩 Bahasa Indonesia</h3>
+  <h3>👋 Call me <strong>tegar-aja</strong> | 🇬🇧 English | 🇮🇩 Bahasa Indonesia</h3>
 </div>
 
 ---
@@ -25,23 +25,39 @@
 
 <div align="center">
 
+**👋 Hey there! Call me <strong>tegar-aja</strong>** | **👋 Hai! Panggil saya <strong>tegar-aja</strong>**
+
+</div>
+
+<div align="left">
+
 **🇬🇧 English:**
 
-- 🔭 I'm currently working on **scalable applications and cloud infrastructure**
-- 🌱 I'm learning **advanced DevOps practices and cloud technologies**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **DevOps, Cloud Infrastructure, Full Stack Development, or Networking**
-- ⚡ Fun fact: I love automating workflows and optimizing system performance
-- 🎯 Passionate about building robust, scalable solutions
+Hi! I'm **Tegar Arrahman**, but you can call me **tegar-aja** 😊
+
+I'm a passionate **DevOps Engineer**, **Full Stack Developer**, **Cloud Engineer**, and **Network Engineer** with hands-on experience in building and managing scalable applications, cloud infrastructure, and networks.
+
+- 🔭 Currently working on **scalable applications and cloud infrastructure**
+- 🌱 Learning **advanced DevOps practices and cloud technologies**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Feel free to ask me about **DevOps, Cloud Infrastructure, Full Stack Development, or Networking**
+- ⚡ Fun fact: I love automating workflows and optimizing system performance - it's like solving puzzles!
+- 🎯 Passionate about building robust, scalable solutions that make a difference
+- ☕ Coffee enthusiast and problem solver
 
 **🇮🇩 Bahasa Indonesia:**
 
-- 🔭 Saat ini saya sedang mengerjakan **aplikasi yang scalable dan infrastruktur cloud**
-- 🌱 Saya sedang mempelajari **praktek DevOps tingkat lanjut dan teknologi cloud**
-- 👯 Saya ingin berkolaborasi dalam **proyek open-source**
-- 💬 Tanyakan saya tentang **DevOps, Infrastruktur Cloud, Pengembangan Full Stack, atau Jaringan**
-- ⚡ Fakta menarik: Saya suka mengotomatisasi workflow dan mengoptimalkan performa sistem
-- 🎯 Berpengalaman dalam membangun solusi yang robust dan scalable
+Hai! Saya **Tegar Arrahman**, tapi kalian bisa panggil saya **tegar-aja** 😊
+
+Saya adalah seorang **DevOps Engineer**, **Full Stack Developer**, **Cloud Engineer**, dan **Network Engineer** yang berpengalaman dalam membangun dan mengelola aplikasi yang scalable, infrastruktur cloud, dan jaringan.
+
+- 🔭 Saat ini sedang mengerjakan **aplikasi yang scalable dan infrastruktur cloud**
+- 🌱 Sedang mempelajari **praktek DevOps tingkat lanjut dan teknologi cloud**
+- 👯 Ingin berkolaborasi dalam **proyek open-source**
+- 💬 Jangan ragu untuk bertanya tentang **DevOps, Infrastruktur Cloud, Pengembangan Full Stack, atau Jaringan**
+- ⚡ Fakta menarik: Saya suka mengotomatisasi workflow dan mengoptimalkan performa sistem - seperti menyelesaikan puzzle!
+- 🎯 Berpengalaman dalam membangun solusi yang robust dan scalable yang membuat perbedaan
+- ☕ Pecinta kopi dan problem solver
 
 </div>
 
